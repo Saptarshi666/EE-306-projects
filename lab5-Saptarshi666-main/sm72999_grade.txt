@@ -1,0 +1,134 @@
+attemping to assemble git_repos/lab5-Saptarshi666/sm72999.asm into git_repos/lab5-Saptarshi666/sm72999.obj
+assembly successful
+Test: testcase1
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'XY123 is already in the main room.
+' substring of 'Type EID and press Enter:XY123\nXY123 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "already" => is 'already' substring of 'Type EID and press Enter:XY123\nXY123 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: testcase2
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'XY123 is already in the main room.
+' substring of 'Type EID and press Enter:XY123\nXY123 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "already" => is 'already' substring of 'Type EID and press Enter:XY123\nXY123 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: testcase3_input1
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'MN483 is not in the main room.
+' substring of 'Type EID and press Enter:MN483\nMN483 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "not" => is 'not' substring of 'Type EID and press Enter:MN483\nMN483 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: testcase3_input2
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'AB789 is already in the main room.
+' substring of 'Type EID and press Enter:AB789\nAB789 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "already" => is 'already' substring of 'Type EID and press Enter:AB789\nAB789 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: testcase3_input3
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'XY123 is already in the main room.
+' substring of 'Type EID and press Enter:XY123\nXY123 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "already" => is 'already' substring of 'Type EID and press Enter:XY123\nXY123 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: testcase4_input1
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'PQ567 is already in the main room.
+' substring of 'Type EID and press Enter:PQ567\nPQ567 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "already" => is 'already' substring of 'Type EID and press Enter:PQ567\nPQ567 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: singleNode_Input1
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'XY123 is not in the main room.
+' substring of 'Type EID and press Enter:XY123\nXY123 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "not" => is 'not' substring of 'Type EID and press Enter:XY123\nXY123 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: singleNode_Input2
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'AB123 is already in the main room.
+' substring of 'Type EID and press Enter:AB123\nAB123 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "already" => is 'already' substring of 'Type EID and press Enter:AB123\nAB123 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: checkPointerMoved
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'AC124 is already in the main room.
+' substring of 'Type EID and press Enter:AC124\nAC124 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "already" => is 'already' substring of 'Type EID and press Enter:AC124\nAC124 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: partialMatch
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'AC123 is not in the main room.
+' substring of 'Type EID and press Enter:AC123\nAC123 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "not" => is 'not' substring of 'Type EID and press Enter:AC123\nAC123 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: terminationTest
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'XY123 is not in the main room.
+' substring of 'Type EID and press Enter:XY123\nXY123 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "not" => is 'not' substring of 'Type EID and press Enter:XY123\nXY123 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: mixedTest_Input1
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'AA111 is already in the main room.
+' substring of 'Type EID and press Enter:AA111\nAA111 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "already" => is 'already' substring of 'Type EID and press Enter:AA111\nAA111 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: mixedTest_Input2
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'AA116 is not in the main room.
+' substring of 'Type EID and press Enter:AA116\nAA116 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "not" => is 'not' substring of 'Type EID and press Enter:AA116\nAA116 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: mixedTest_Input3
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'AD111 is not in the main room.
+' substring of 'Type EID and press Enter:AD111\nAD111 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "not" => is 'not' substring of 'Type EID and press Enter:AD111\nAD111 is not in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: mixedTest_Input4
+is 'Type EID and press Enter: ' == 'Type EID and press Enter:'
+is 'AC111 is already in the main room.
+' substring of 'Type EID and press Enter:AC111\nAC111 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+ "already" => is 'already' substring of 'Type EID and press Enter:AC111\nAC111 is already in the main room\n\n--- Halting the LC-3 ---\n\n'
+yes
+Test points earned: 5/5 (100%)
+==========
+Test: Correct_Prompt
+  correctPrompt => no
+  correctHad => no
+  correctNotHad => no
+Test points earned: 0/15 (0%)
+==========
+Test: Sim_Successful
+  SIM_SUCCESSFUL => yes
+Test points earned: 10/10 (100%)
+==========
+==========
+Total points earned: 85/100 (85%)

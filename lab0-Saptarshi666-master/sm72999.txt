@@ -1,0 +1,12 @@
+!!!!!! DO NOT FORGET TO CHANGE THE NAME OF THIS FILE TO youreid.txt (e.g. blt896.txt) !!!!!!
+
+Name: Saptarshi Mondal
+
+What are some fun “quarantine hobbies” that have helped get you through the past couple months?: I learnt basics python and learnt some stuff about operational amplifiers. They helped me keep busy.
+
+What programming languages have you worked with previously?  (note: you do NOT need to have any programming experience for this course): I have learnt basic python and a considerable knowledge of C++
+
+In general, how do you feel about working in groups?  Would you describe yourself as shy? Talkative? A leader? A follower?: I generally dont have any problem with working in groups. I like to think that I am shy until I need to talk and a follower until I understand that I have to lead. 
+
+What do you expect from this class?  From your TAs?: I expect to learn the software part of the ECE in this class. I expect that TAs will help me learn more about this class.
+
